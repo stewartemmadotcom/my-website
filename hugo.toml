@@ -1,0 +1,22 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Emma Stewart'
+theme = "gokarna"
+[menu]
+    [[menu.main]]
+        identifier = "cv"
+        name = "CV"
+        url = "/CV/"
+        weight = 2
+    [[menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts/"
+        weight = 4
+    [[menu.main]]
+        identifier = "projects"
+        name = "Projects"
+        url = "/projects/"
+        weight = 3
+[markup.goldmark.renderer]
+unsafe = true

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Emma Stewart</title>
+    <link>http://localhost:52513/</link>
+    <description>Recent content in About on Emma Stewart</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:52513/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:52513/posts/first-post/</link>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52513/posts/first-post/</guid>
+      <description>&lt;p&gt;This is the first post. Hugo uses the &lt;code&gt;date&lt;/code&gt; in front matter for sorting.&lt;/p&gt;&#xA;&lt;p&gt;Hello! First post.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CV</title>
+      <link>http://localhost:52513/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52513/cv/</guid>
+      <description>&lt;h1 id=&#34;curriculum-vitae&#34;&gt;Curriculum Vitae&lt;/h1&gt;&#xA;&lt;p&gt;Hardin Hall 001 &amp;mdash; Clemson University&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:estewa7@clemson.edu&#34;&gt;estewa7@clemson.edu&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Clemson University&lt;/strong&gt;&#xA;Ph.D. in Digital History, Expected graduation May 2030&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;University of Central Oklahoma&lt;/strong&gt;&#xA;Master’s in History, June 2023-May 2025&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;University of Central Oklahoma&lt;/strong&gt;&#xA;Bachelor’s in History, minor in Women’s, Gender, and Sexuality&#xA;Studies, August 2019-May 2023&lt;/p&gt;&#xA;&lt;h2 id=&#34;employment-and-internships&#34;&gt;Employment and Internships&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Teaching Assistant&lt;/strong&gt;,&#xA;History and Geography Department,&#xA;Clemson University, August 2025-Present&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Co-Manager&lt;/strong&gt;,&#xA;Women&amp;rsquo;s Research Center and BGLTQ+ Student Center,&#xA;University of Central Oklahoma, May 2024-July 2025&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:52513/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52513/projects/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h3 id=&#34;northwest-arkansas-womens-oral-history-project&#34;&gt;Northwest Arkansas Women&amp;rsquo;s Oral History Project&lt;/h3&gt;&#xA;&lt;h3 id=&#34;herland-archive-digitization&#34;&gt;Herland Archive Digitization&lt;/h3&gt;&#xA;&lt;div style=&#34;display: flex; gap: 20px; align-items: flex-start;&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:52513/images/herland-arch.png&#34; alt=&#34;Herland Archive&#34; width=&#34;200&#34; style=&#34;flex-shrink: 0;&#34;&gt;&#xA;&lt;div&gt;&#xA;From 2022-2025, I worked on a project funded by a National Endowment for the Humanities grant to digitize the Herland Archive&#39;s rare collection of feminist periodicals housed at the University of Central Oklahoma&#39;s Women&#39;s Research Center and BGLTQ+ Student Center. I was one of a handful of students who scanned and created metadata for over 40,000 pages of the collection. The entire process introduced me to the labor behind digitization. I learned how to scan documents, compress files, and run OCR to create text-searchable PDFs suitable for public access. The digital archive is housed on the ShareOK website and can be accessed &lt;a href=&#34;https://hdl.handle.net/11244/340059&#34;&gt;here&lt;/a&gt;.&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
