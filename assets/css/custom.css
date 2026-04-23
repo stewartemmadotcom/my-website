@@ -1,0 +1,9 @@
+/* Light theme background */
+body:not(.dark-theme) {
+    background-color: #f8edcf !important;
+}
+
+/* Dark theme background */
+body.dark-theme {
+    background-color: #073642 !important;
+}

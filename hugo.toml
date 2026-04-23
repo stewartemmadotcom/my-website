@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
 title = 'Emma Stewart'
 theme = "gokarna"
@@ -20,3 +20,11 @@ theme = "gokarna"
         weight = 3
 [markup.goldmark.renderer]
 unsafe = true
+[params]
+customHeadHTML = """
+<style>
+:root {
+    --accent-color: #95E1D3;
+}
+</style>
+"""

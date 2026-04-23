@@ -1,0 +1,13 @@
+<article class="list-post" style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 30px;">
+    
+    <div style="flex: 1;">
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        <p class="list-post-date">{{ .Date.Format "Jan 2, 2006" }}</p>
+        <p>{{ .Summary }}</p>
+        <a href="{{ .Permalink }}">Read more →</a>
+    </div>
+
+    {{ if .Params.image }}
+        <img src="{{ .Params.image }}" alt="{{ .Title }}" style="width: 300px; height: auto; flex-shrink: 0; object-fit: cover;">
+    {{ end }}
+</article>
