@@ -2,4 +2,4 @@
 title: "Posts"
 draft: false
 ---
-A minimal list of posts.
+### Welcome to my blog. Below, you can read some of my posts. 
